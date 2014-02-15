@@ -18,7 +18,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Add the following to your sass file:
+
+    @import "colors";
 
 ## Contributing
 
